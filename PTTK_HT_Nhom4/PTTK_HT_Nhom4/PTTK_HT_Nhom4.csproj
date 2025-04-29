@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8BD69116-EE13-49E5-8030-102A5CC26308}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PTTK_HT_Nhom4</RootNamespace>
+    <AssemblyName>PTTK_HT_Nhom4</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connector.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DangNhap.Designer.cs">
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_OTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_OTP.Designer.cs">
+      <DependentUpon>Frm_OTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Phat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Phat.Designer.cs">
+      <DependentUpon>Frm_Phat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QuanLy.Designer.cs">
+      <DependentUpon>Frm_QuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Test.Designer.cs">
+      <DependentUpon>Frm_Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ThongKe.Designer.cs">
+      <DependentUpon>Frm_ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TimKiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TimKiem.Designer.cs">
+      <DependentUpon>Frm_TimKiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TrangChu.Designer.cs">
+      <DependentUpon>Frm_TrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\Chitietphieumuon.cs" />
+    <Compile Include="model\Phieumuon.cs" />
+    <Compile Include="model\Phieuphat.cs" />
+    <Compile Include="model\Sach.cs" />
+    <Compile Include="model\Taikhoan.cs" />
+    <Compile Include="model\Theloai.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC_DangNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_DangNhap.Designer.cs">
+      <DependentUpon>UC_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_OTP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_OTP.Designer.cs">
+      <DependentUpon>UC_OTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Phat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Phat.Designer.cs">
+      <DependentUpon>UC_Phat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_QuanLy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_QuanLy.Designer.cs">
+      <DependentUpon>UC_QuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_QuanLyMuon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_QuanLyMuon.Designer.cs">
+      <DependentUpon>UC_QuanLyMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_QuanLyTra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_QuanLyTra.Designer.cs">
+      <DependentUpon>UC_QuanLyTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ThanhLy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ThanhLy.Designer.cs">
+      <DependentUpon>UC_ThanhLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ThongKe.Designer.cs">
+      <DependentUpon>UC_ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_TimKiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_TimKiem.Designer.cs">
+      <DependentUpon>UC_TimKiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_TrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_TrangChu.Designer.cs">
+      <DependentUpon>UC_TrangChu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DangNhap.resx">
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_OTP.resx">
+      <DependentUpon>Frm_OTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Phat.resx">
+      <DependentUpon>Frm_Phat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QuanLy.resx">
+      <DependentUpon>Frm_QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Test.resx">
+      <DependentUpon>Frm_Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ThongKe.resx">
+      <DependentUpon>Frm_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TimKiem.resx">
+      <DependentUpon>Frm_TimKiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TrangChu.resx">
+      <DependentUpon>Frm_TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UC_DangNhap.resx">
+      <DependentUpon>UC_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_OTP.resx">
+      <DependentUpon>UC_OTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Phat.resx">
+      <DependentUpon>UC_Phat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_QuanLy.resx">
+      <DependentUpon>UC_QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_QuanLyMuon.resx">
+      <DependentUpon>UC_QuanLyMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_QuanLyTra.resx">
+      <DependentUpon>UC_QuanLyTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ThanhLy.resx">
+      <DependentUpon>UC_ThanhLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ThongKe.resx">
+      <DependentUpon>UC_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_TimKiem.resx">
+      <DependentUpon>UC_TimKiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_TrangChu.resx">
+      <DependentUpon>UC_TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Images\Tagline web add QS Ranking-02.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

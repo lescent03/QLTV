@@ -1,0 +1,62 @@
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\Images\Tagline web add QS Ranking-02.jpg
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\PTTK_HT_Nhom4.exe.config
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\PTTK_HT_Nhom4.exe
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\PTTK_HT_Nhom4.pdb
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\Guna.UI2.dll
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.csproj.AssemblyReference.cache
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Form1.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_TrangChu.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Properties.Resources.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_TimKiem.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_TrangChu.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.csproj.GenerateResource.cache
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.csproj.CoreCompileInputs.cache
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_.DC3A8387.Up2Date
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.exe
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.pdb
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_TimKiem.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_DangNhap.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_QuanLy.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_DangNhap.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_OTP.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_OTP.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_QuanLy.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_QuanLyMuon.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_Test.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_QuanLyTra.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_Phat.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_Phat.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_ThanhLy.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_ThongKe.resources
+C:\Users\LUU QUOC THANH\source\repos\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_ThongKe.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\Images\Tagline web add QS Ranking-02.jpg
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\PTTK_HT_Nhom4.exe.config
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\PTTK_HT_Nhom4.exe
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\PTTK_HT_Nhom4.pdb
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\bin\Debug\Guna.UI2.dll
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.csproj.AssemblyReference.cache
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Form1.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_DangNhap.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_OTP.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_Phat.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_QuanLy.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_Test.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_ThongKe.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_TimKiem.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Frm_TrangChu.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.Properties.Resources.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_DangNhap.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_OTP.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_Phat.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_QuanLy.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_QuanLyMuon.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_QuanLyTra.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_ThanhLy.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_ThongKe.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_TimKiem.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.UC_TrangChu.resources
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.csproj.GenerateResource.cache
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.csproj.CoreCompileInputs.cache
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_.DC3A8387.Up2Date
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.exe
+D:\NAM4\CSDLNC\CuoiKy\PTTK_HT_Nhom4\PTTK_HT_Nhom4\obj\Debug\PTTK_HT_Nhom4.pdb
